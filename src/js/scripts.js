@@ -1,4 +1,4 @@
-(function ($, window, document) {
+(function ($) {
 
   'use strict';
 
@@ -6,4 +6,4 @@
     // FastShell
   });
 
-})(jQuery, window, document);
+})(jQuery);

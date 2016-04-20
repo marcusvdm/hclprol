@@ -6,7 +6,7 @@
  * @version 1.0.5
  * Copyright 2016. MIT licensed.
  */
-(function ($, window, document) {
+(function ($) {
 
   'use strict';
 
@@ -14,4 +14,4 @@
     // FastShell
   });
 
-})(jQuery, window, document);
+})(jQuery);
